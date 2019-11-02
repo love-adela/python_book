@@ -1,4 +1,4 @@
-읽고 공부한 파이썬 교재 목록
+# 읽고 공부한 파이썬 교재 목록
 
 * Introducing Python (Bill Lubanovic/ O'Reilly)
 
